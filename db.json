@@ -1,13 +1,15 @@
 {
-  "users":[
-    {
-    "id":1,
-    "name":"haider",
-    "email":"omar.heder.store@gmail.com",
-    "password":"qwertyuiop@12345678900",
-    "role":"admin"
-    }
-  ],
+  "users": [
+  {
+    "id": 1,
+    "name": "haider",
+    "email": "omar.heder.store@gmail.com",
+    "password": "qwertyuiop@12345678900",
+    "role": "admin",
+    "gender": "male",
+    "img": "https://your-image-link.com/haider.jpg"
+  }
+],
   "products":[
   {
     "id": 1,
